@@ -13,7 +13,7 @@ const Headbar = () => {
   const mydata = useSelector((state) => state.Reducer.Todoarray);
   return (
     <>
-    <div className="container-fluid">
+    <div className="container-fluid"></div>
       <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
         <div class="collapse navbar-collapse" id="navbarText">
           <ul class="navbar-nav mr-auto">
@@ -35,7 +35,6 @@ const Headbar = () => {
           </ul>
         </div>
       </nav>
-      </div>
     </>
   );
 };

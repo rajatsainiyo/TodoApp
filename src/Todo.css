@@ -4,6 +4,7 @@
 
 }
 .containercolor{background-color: #9b8b8b;
+    background-image: url(./imagestodo/photo-1577017077260-0f6fef54ec0c.avif);
     color: #cfb93e;
 height: 100%;}
 
@@ -17,6 +18,7 @@ height: 100%;}
 }
 .cont-cox{
     background-color: rgb(174, 175, 168);
+    background-image: url(./imagestodo/photo-1577017077260-0f6fef54ec0c.avif);
 }
 /* .status-input{
     width: 30px;
@@ -43,11 +45,17 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 .content-block{
     background: #39a3aa;
+    background-image: url(./imagestodo/Todo.jpg);
+    background-size: cover;
 }
 .my-cont{
-    background-color: #c7bbbb;
+    background-color: #cac3c3;
 }
 .cont-fluid{background-color: #63615c;height: 500px;
     width: 100%;
+    background-image: url(./imagestodo/todo1.jpg);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
 
 height: 700px;}
